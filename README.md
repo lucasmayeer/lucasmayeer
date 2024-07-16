@@ -31,4 +31,6 @@ _Beyond the digital realm, I've found another passion in a social project focuse
 - English (EN-US) ✔️
 
 ## _My Stats_
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmayeer&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmayeer&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmayeer&hide=javascript,html)
+
+
