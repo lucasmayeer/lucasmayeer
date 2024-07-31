@@ -47,7 +47,6 @@ Beyond the digital realm, I've found another passion in a social project focused
   <img src="https://streak-stats.demolab.com?user=lucasmayeer&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=0&order=3" height="135" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/lucasmayeer/lucasmayeer/output/snake.svg" alt="Snake animation" />
 
 
 
