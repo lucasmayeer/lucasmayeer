@@ -3,9 +3,9 @@
   
   ***Brazilian, born in the charming and chilly city of Curitiba!***
 
-_I am passionate about data and continuous improvement, and I work with great pleasure and attention to detail in this field. I am fascinated by the digital world in general. I am always seeking new challenges that captivate me, allowing me to learn and further develop myself in the vast field of data analysis._
+I am passionate about data and continuous improvement, and I work with great pleasure and attention to detail in this field. I am fascinated by the digital world in general. I am always seeking new challenges that captivate me, allowing me to learn and further develop myself in the vast field of data analysis.
 
-_Beyond the digital realm, I've found another passion in a social project focused on animal adoption. Being part of these initiatives is not just a choice but a commitment that I have turned into one of my life goals because I find fulfillment in being able to contribute to the homes of these wonderful beings who fill our lives with love!_
+Beyond the digital realm, I've found another passion in a social project focused on animal adoption. Being part of these initiatives is not just a choice but a commitment that I have turned into one of my life goals because I find fulfillment in being able to contribute to the homes of these wonderful beings who fill our lives with love!
 
 
 ### _I am proficient in:_
