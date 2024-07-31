@@ -1,5 +1,5 @@
 # _Hey, I'm Lucas Mayer_ 🤙🏻🖐🏻
-<img align="left" height="200" src="https://i.pinimg.com/originals/fe/cc/a9/fecca98ca4df2b657860061a13b800e2.jpg"  />
+<img align="left" height="250" src="https://i.pinimg.com/originals/fe/cc/a9/fecca98ca4df2b657860061a13b800e2.jpg"  />
   
   ***Brazilian, born in the charming and chilly city of Curitiba!***
 
