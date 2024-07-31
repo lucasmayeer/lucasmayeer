@@ -42,8 +42,8 @@ Beyond the digital realm, I've found another passion in a social project focused
 
 ## 🔥 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmayeer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Stats" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lucasmayeer&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=0&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmayeer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Stats" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=lucasmayeer&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=0&order=3" height="180" alt="streak graph"  />
 </div>
 
 
